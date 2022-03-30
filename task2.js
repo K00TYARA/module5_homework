@@ -1,4 +1,4 @@
-x = prompt();
+let x = prompt();
 
 if (isNaN(+x)) {
     if (x === "True" || x === "False"){

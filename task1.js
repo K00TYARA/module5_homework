@@ -1,4 +1,4 @@
-x = prompt();
+let x = prompt();
 x = +x;
 
 if (isNaN(x)){
